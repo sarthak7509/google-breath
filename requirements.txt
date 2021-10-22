@@ -1,0 +1,7 @@
+tensorboard
+tensorflow-cpu==2.5.0
+numpy==1.19.5
+pandas
+lightgbm
+scikit-learn
+optuna
